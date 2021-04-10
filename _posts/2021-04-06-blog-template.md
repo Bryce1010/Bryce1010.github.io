@@ -8,6 +8,10 @@ pin: true
 ---
 
 
+
+
+
+
 # Head
 ---
 title: Text and Typography
@@ -27,6 +31,13 @@ image:
 
 
 # Content
+
+## front
+- 工作后博客blog: https://bryce1010.github.io/
+- 工作前博客csdn: https://bryce1010.blog.csdn.net/
+- github: https://github.com/Bryce1010
+
+
 
 ## toc
 ---
