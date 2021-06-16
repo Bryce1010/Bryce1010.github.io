@@ -16,8 +16,6 @@ image:
 
 
 
-
-
 # Head
 ---
 title: Text and Typography
