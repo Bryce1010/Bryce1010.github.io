@@ -17,12 +17,16 @@ timezone: Asia/Shanghai
 # --------------------------
 title: 贤哉·回也                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Welcome to XianZaiHuiYe's blog!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  贤哉·回也 (Bryce1010)
+  本人学习经历既包括后台开发技术栈，也含有计算机视觉深度学习。爱好分享个人经历，学习体悟，欢迎交流。
+  工作博客: bryce1010.github.io
+  学生博客: bryce1010.csdn.net
+  Github: Bryce1010
+  邮箱: bryceyx@gmial.com
+  微信：Bryce1010_HuiYe
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://bryce1010.github.io/'
@@ -31,7 +35,7 @@ github:
   username: Bryce1010             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: Bryce10101            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -40,13 +44,13 @@ social:
   email: bryceyx@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/bryce10101      # change to your twitter homepage
     - https://github.com/Bryce1010       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: oAnSq-8S1Yts5vYYKTQmw6j6tvjJmqQgpQo2zSF6aC0 # change to your verification string
 # --------------------------
 
 google_analytics:
@@ -81,7 +85,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: http://ww1.sinaimg.cn/large/006FBdJLly1grk6p07u2qj30p10p1mza.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true

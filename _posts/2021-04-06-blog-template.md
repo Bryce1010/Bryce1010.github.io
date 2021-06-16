@@ -1,10 +1,16 @@
 ---
 title: Blog Writing Template
-author: linjing.yx
+author: 贤哉·回也
 date: 2021-04-06 23:54:00 +0800
 categories: [Blogging, Tutorial]
 tags: [template]
 pin: true
+toc: false
+comments: false
+mermaid: true
+image:
+  src: /path/to/image/file
+  alt: image alternative text
 ---
 
 
@@ -68,6 +74,16 @@ image:
   src: /path/to/image/file
   alt: image alternative text
 ---
+
+```
+![img-description](/path/to/image)
+_Image Caption_
+![Desktop View](/assets/img/sample/mockup.png){: width="400"}
+![Desktop View](/assets/img/sample/mockup.png){: .normal}
+![Desktop View](/assets/img/sample/mockup.png){: .left}
+![Desktop View](/assets/img/sample/mockup.png){: .right}
+```
+
 
 
 ## Code
