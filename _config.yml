@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: 贤哉·回也                          # the main title
 
-tagline: Welcome to XianZaiHuiYe's blog!   # it will display as the sub-title
+tagline: Welcome to Bryce1010's blog!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   贤哉·回也 (Bryce1010)
@@ -85,7 +85,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: http://ww1.sinaimg.cn/large/006FBdJLly1grk6p07u2qj30p10p1mza.jpg
+avatar: assets/img/favicons/favicon-32x32.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
