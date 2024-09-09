@@ -2,12 +2,15 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/Bryce1010"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://twitter.com/bryce10101"
 
 - type: email
   icon: "fas fa-envelope"
+  url: "bryceyx@gmail.com"
   noblank: true # open link in current tab
 
 - type: rss
