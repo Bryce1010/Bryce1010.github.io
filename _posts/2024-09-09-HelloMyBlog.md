@@ -6,7 +6,7 @@ tags: [hello, blog]
 author: <Bryce1010>
 description: This is my first blog post.
 toc: false
-comments: false
+comments: true
 pin: true
 ---
 
