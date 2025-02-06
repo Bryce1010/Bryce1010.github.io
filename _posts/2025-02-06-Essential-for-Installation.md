@@ -1,7 +1,13 @@
 ---
-tags: #管理/效率
-date: 2025-02-06
-ref: [配新电脑必备软件](https://weekly.tw93.fun/posts/208-%E9%85%8D%E6%96%B0%E7%94%B5%E8%84%91)
+title: 配新电脑必备软件
+date: 2025-02-06 10:05:39 +0800
+categories: [管理, 效率]
+tags: [管理, 效率]
+author: <Bryce1010>
+description: 配新电脑必备软件
+toc: true
+comments: true
+pin: false
 ---
 
 ## 装机必备
